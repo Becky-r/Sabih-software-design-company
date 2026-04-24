@@ -23,8 +23,8 @@ import storeKeeperImg from "./Images/Store Keeper.png";
 import hrManagementImg from "./Images/Hotel-management.png";
 import liveAdminImg from "./Images/Live admin.png";
 import Kitecredit from "./Images/Kite-Credit.png";
-import streamflow from "./Images/Stream-Flow.png";
-import EduFund from "./Images/Edu-Fund.png";
+import streamflow from "./Images/stream-flow.png";
+import EduFund from "./Images/Edu-fund.png";
 
 export default function PortfolioPage() {
   const projects = [
